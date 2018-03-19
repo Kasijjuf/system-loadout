@@ -1,0 +1,405 @@
+Miscellaneous
+=============
+atril
+build-essential
+calibre					https://calibre-ebook.com/
+dosbox
+exe-thumbnailer
+ffmpeg
+ffmpeg-doc
+gource
+hardinfo				http://hardinfo.berlios.de/ (deadlink)
+libreoffice-calc			http://www.documentfoundation.org/
+libreoffice-help-en-us			http://www.documentfoundation.org/
+libreoffice-writer			http://www.documentfoundation.org/
+mate-calc
+mate-system-monitor
+mcomix
+meld
+memtest86+
+redshift				http://jonls.dk/redshift/
+redshift-gtk
+synaptic				http://savannah.gnu.org/projects/synaptic/
+vlc
+  Pause on click plugin			https://github.com/nurupo/vlc-pause-click-plugin
+
+
+CLI Commands & Tools
+====================
+aeson-pretty				https://hackage.haskell.org/package/aeson-pretty
+apt
+  apt-get
+  apt-cache
+  apt-cdrom
+  apt-config
+  apt-key
+bash					ftp://ftp.gnu.org/pub/gnu/bash/
+bash-completion
+bash-doc
+coreutils				http://www.gnu.org/software/coreutils/
+  [1]
+curl
+debianutils
+  add-shell
+  installkernel
+  ischroot
+  remove-shell
+  run-parts
+  savelog
+  tempfile
+  which
+dpkg
+file					ftp.astron.com/pub/file/ (?)
+git
+git-doc
+grep					http://www.gnu.org/software/grep/
+html-xml-utils
+  [2]
+htop
+icoutils
+  extresso
+  genresscript
+  icotool
+  wrestool
+info
+less					http://www.greenwoodsoftware.com/less/
+make
+make-doc
+mediainfo
+moc
+neofetch
+pciutils
+  lspci
+pwgen
+rdfind
+sudo					https://www.sudo.ws/
+tmux
+tree
+usbutils
+  lsusb
+util-linux				ftp://ftp.kernel.org/pub/linux/utils/util-linux/
+  [3]
+wget
+whois
+xkcdpass
+youtube-dl
+
+
+Disk & Filesystem Utilities
+===========================
+ddrescueview				https://sourceforge.net/projects/ddrescueview/
+dosfstools				https://github.com/dosfstools/dosfstools/
+  fatlabel
+  fsck.fat
+  mkfs.fat
+e2fsprogs				http://e2fsprogs.sourceforge.net/
+  badblocks
+  e2fsck
+  e2label
+  mke2fs
+  tune2fs
+  ...
+exfat-fuse				https://github.com/relan/exfat
+  mount.exfat-fuse
+exfat-utils
+  dumpexfat
+  exfatfsck
+  exfatlabel
+  fsck.exfat
+  mkexfatfs
+  mkfs.exfat
+gddrescue				https://www.gnu.org/software/ddrescue/
+  ddrescue
+  ddrescuelog
+gdmap					https://sourceforge.net/projects/gdmap/
+gnome-disk-utility
+gparted
+gsmartcontrol
+ncdu
+ntfs-3g					http://www.tuxera.com/community/
+  [4]
+parted
+parted-doc
+smartmontools
+  smartctl
+  smartd
+  update-smart-drivedb
+testdisk
+
+
+Internet
+========
+firefox
+  HTTPS Everywhere		https://www.eff.org/https-everywhere
+  Privacy Badger		https://www.eff.org/privacybadger
+  I don't care about cookies	https://www.kiboke-studio.hr/i-dont-care-about-cookies/
+  Open in Wayback Machine	https://github.com/hijarian/wayback-for-firefox
+  Tab Groups			https://github.com/Quicksaver/Tab-Groups
+lynx
+pidgin				http://pidgin.im/
+qbittorrent			http://www.qbittorrent.org/
+
+
+Compression & Archiving
+=======================
+bzip2				http://www.bzip.org/
+bzip2-doc
+engrampa
+gzip
+innoextract
+p7zip-full
+tar				http://www.gnu.org/software/tar/
+tar-doc
+unrar-free
+xz-utils
+
+
+Typefaces
+=========
+fonts-liberation
+fonts-noto-cjk
+fonts-noto-mono
+fonts-roboto
+
+
+Graphics
+========
+blender				http://www.blender.org/
+gimp				http://www.gimp.org/
+gimp-help-en
+inkscape			https://inkscape.org/
+ufraw
+
+
+CAD
+===
+freecad
+freecad-doc
+kicad
+kicad-doc-en
+librecad			http://librecad.org/
+
+
+Games & Gaming
+==============
+between
+bsdgames
+freedoom
+lbreakout2
+nexuiz
+oolite
+openarena
+scummvm				http://www.scummvm.org/
+supertuxkart
+ufoai
+
+
+Xfce
+====
+mousepad
+ristretto
+thunar
+xfburn
+xfce4-cpugraph-plugin
+xfce4-indicator-plugin
+xfce4-netload-plugin
+xfce4-panel
+xfce4-places-plugin
+xfce4-power-manager-plugins
+xfce4-systemload-plugin
+xfce4-terminal
+xfce4-topmenu-plugin
+xfce4-weather-plugin
+xfce4-whiskermenu-plugin
+
+
+Mostly useless (but amusing)
+============================
+cmatrix
+cowsay
+fortune-mod
+  fortune
+hollywood
+nyancat
+oneko
+sl
+
+
+
+[1]
+  arch
+  base64
+  basename
+  cat
+  chcon
+  chgrp
+  chmod
+  chown
+  chroot
+  cksum
+  comm
+  cp
+  csplit
+  cut
+  date
+  dd
+  df
+  dir
+  dircolors
+  dirname
+  du
+  echo
+  env
+  expand
+  expr
+  factor
+  false
+  flock
+  fmt
+  fold
+  groups
+  head
+  hostid
+  id
+  install
+  join
+  link
+  ln
+  logname
+  ls
+  md5sum
+  mkdir
+  mkfifo
+  mknod
+  mktemp
+  mv
+  nice
+  nl
+  nohup
+  nproc
+  numfmt
+  od
+  paste
+  pathchk
+  pinky
+  pr
+  printenv
+  printf
+  ptx
+  pwd
+  readlink
+  realpath
+  rm
+  rmdir
+  runcon
+  sha1sum
+  sha224sum
+  sha256sum
+  sha384sum
+  sha512sum
+  seq
+  shred
+  sleep
+  sort
+  split
+  stat
+  stty
+  sum
+  sync
+  tac
+  tail
+  tee
+  test
+  timeout
+  touch
+  tr
+  true
+  truncate
+  tsort
+  tty
+  uname
+  unexpand
+  uniq
+  unlink
+  users
+  vdir
+  wc
+  who
+  whoami
+  yes
+
+[2]
+  asc2xml      -  convert from UTF-8 to &#nnn; entities
+  xml2asc      -  convert from &#nnn; entities to UTF-8
+  hxaddid      -  add IDs to selected elements
+  hxcite       -  replace bibliographic references by hyperlinks
+  hxcite-mkbib -  expand references and create bibliography
+  hxclean      -  apply heuristics to correct an HTML file
+  hxcopy       -  copy an HTML file while preserving relative links
+  hxcount      -  count elements and attributes in HTML or XML files
+  hxextract    -  extract selected elements
+  hxincl       -  expand included HTML or XML files
+  hxindex      -  create an alphabetically sorted index
+  hxmkbib      -  create bibliography from a template
+  hxmultitoc   -  create a table of contents for a set of HTML files
+  hxname2id    -  move some ID= or NAME= from A elements to their parents
+  hxnormalize  -  pretty-print an HTML file
+  hxnsxml      -  convert output of hxxmlns back to normal XML
+  hxnum        -  number section headings in an HTML file
+  hxpipe       -  convert XML to a format easier to parse with Perl or AWK
+  hxprintlinks -  number links & add table of URLs at end of an HTML file
+  hxprune      -  remove marked elements from an HTML file
+  hxref        -  generate cross-references
+  hxselect     -  extract elements that match a (CSS) selector
+  hxtoc        -  insert a table of contents in an HTML file
+  hxuncdata    -  replace CDATA sections by character entities
+  hxunent      -  replace HTML predefined character entities to UTF-8
+  hxunpipe     -  convert output of pipe back to XML format
+  hxunxmlns    -  replace "global names" by XML Namespace prefixes
+  hxwls        -  list links in an HTML file
+  hxxmlns      -  replace XML Namespace prefixes by "global names"
+
+[3]
+  addpart
+  blkid
+  cfdisk
+  delpart
+  fdisk
+  findfs
+  findmnt
+  fsck
+  fsck.cramfs
+  fsck.minix
+  fstab (manpage)
+  losetup
+  lsblk
+  lscpu
+  mkfs (deprecated)
+  mkfs.bfs
+  mkfs.cramfs
+  mkfs.minix
+  mount
+  partx
+  sfdisk
+  swapoff
+  swapon
+  umount
+  ...
+
+[4]
+  ntfsprogs
+    mkntfs
+    ntfscat
+    ntfsclone
+    ntfscluster
+    ntfscmp
+    ntfscp
+    ntfsfix
+    ntfsinfo
+    ntfslabel
+    ntfsls
+    ntfsresize
+    ntfstruncate
+    ntfsundelete
+    ntfswipe
+  ...

@@ -1,0 +1,134 @@
+aeson-pretty		install
+atril		install
+# bash		install
+bash-completion		install
+bash-doc		install
+between		install
+blender		install
+bsdgames		install
+build-essential		install
+bzip2		install
+bzip2-doc		install
+# calibre		install
+cmatrix		install
+cowsay		install
+curl		install
+# ddrescueview		install
+debianutils		install
+dosbox		install
+dosfstools		install
+e2fsprogs		install
+engrampa		install
+# exe-thumbnailer		install
+exfat-fuse		install
+exfat-utils		install
+ffmpeg		install
+ffmpeg-doc		install
+file		install
+# firefox		install
+fonts-liberation		install
+fonts-noto-cjk		install
+fonts-noto-mono		install
+fonts-roboto		install
+fortune-mod		install
+freecad		install
+freecad-doc		install
+freedoom		install
+# gddrescue		install
+# gdmap		install
+gimp		install
+gimp-help-en		install
+git		install
+git-doc		install
+gnome-disk-utility		install
+# gnome-exe-thumbnailer		install
+gource		install
+gparted		install
+grep		install
+gsmartcontrol		install
+gzip		install
+hardinfo		install
+# hollywood		install
+html-xml-utils		install
+htop		install
+icoutils		install
+info		install
+inkscape		install
+innoextract		install
+kicad		install
+kicad-doc-en		install
+lbreakout2		install
+less		install
+librecad		install
+libreoffice-calc		install
+libreoffice-help-en-us		install
+libreoffice-writer		install
+lynx		install
+make		install
+make-doc		install
+mate-calc		install
+mate-system-monitor		install
+mcomix		install
+mediainfo		install
+meld		install
+memtest86+		install
+moc		install
+mousepad		install
+ncdu		install
+neofetch		install
+# nexuiz		install
+ntfs-3g		install
+nyancat		install
+oneko		install
+oolite		install
+openarena		install
+p7zip-full		install
+parted		install
+parted-doc		install
+pciutils		install
+pidgin		install
+pwgen		install
+qbittorrent		install
+rdfind		install
+redshift		install
+redshift-gtk		install
+ristretto		install
+scummvm		install
+sl		install
+smartmontools		install
+supertuxkart		install
+tar		install
+tar-doc		install
+testdisk		install
+thunar		install
+tmux		install
+tree		install
+ufoai		install
+ufraw		install
+unrar-free		install
+usbutils		install
+util-linux		install
+vlc		install
+wget		install
+whois		install
+xfburn		install
+# xfce4-cpugraph-plugin		install
+# xfce4-indicator-plugin		install
+# xfce4-netload-plugin		install
+# xfce4-panel		install
+# xfce4-places-plugin		install
+# xfce4-power-manager-plugins		install
+# xfce4-systemload-plugin		install
+xfce4-terminal		install
+# xfce4-topmenu-plugin		install
+# xfce4-weather-plugin		install
+# xfce4-whiskermenu-plugin		install
+xkcdpass		install
+xz-utils		install
+comix		purge
+evince		purge
+file-roller		purge
+gnome-calculator		purge
+gnome-system-monitor		purge
+transmission		purge
+# xul-ext-ubufox		purge
