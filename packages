@@ -67,6 +67,7 @@ make
 make-doc
 mediainfo
 moc
+nano
 neofetch
 pciutils
   lspci

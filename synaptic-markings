@@ -74,6 +74,7 @@ meld		install
 memtest86+		install
 moc		install
 mousepad		install
+nano		install
 ncdu		install
 neofetch		install
 # nexuiz		install
