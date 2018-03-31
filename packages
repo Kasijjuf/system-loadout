@@ -1,29 +1,3 @@
-Miscellaneous
-=============
-atril
-build-essential
-calibre					https://calibre-ebook.com/
-dosbox
-exe-thumbnailer
-ffmpeg
-ffmpeg-doc
-gource
-hardinfo				http://hardinfo.berlios.de/ (deadlink)
-libreoffice-calc			http://www.documentfoundation.org/
-libreoffice-help-en-us			http://www.documentfoundation.org/
-libreoffice-writer			http://www.documentfoundation.org/
-mate-calc
-mate-system-monitor
-mcomix
-meld
-memtest86+
-redshift				http://jonls.dk/redshift/
-redshift-gtk
-synaptic				http://savannah.gnu.org/projects/synaptic/
-vlc
-  Pause on click plugin			https://github.com/nurupo/vlc-pause-click-plugin
-
-
 CLI Commands & Tools
 ====================
 aeson-pretty				https://hackage.haskell.org/package/aeson-pretty
@@ -224,6 +198,32 @@ hollywood
 nyancat
 oneko
 sl
+
+
+Miscellaneous
+=============
+atril
+build-essential
+calibre					https://calibre-ebook.com/
+dosbox
+exe-thumbnailer
+ffmpeg
+ffmpeg-doc
+gource
+hardinfo				http://hardinfo.berlios.de/ (deadlink)
+libreoffice-calc			http://www.documentfoundation.org/
+libreoffice-help-en-us			http://www.documentfoundation.org/
+libreoffice-writer			http://www.documentfoundation.org/
+mate-calc
+mate-system-monitor
+mcomix
+meld
+memtest86+
+redshift				http://jonls.dk/redshift/
+redshift-gtk
+synaptic				http://savannah.gnu.org/projects/synaptic/
+vlc
+  Pause on click plugin			https://github.com/nurupo/vlc-pause-click-plugin
 
 
 
