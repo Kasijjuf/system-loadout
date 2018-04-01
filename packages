@@ -9,7 +9,6 @@ apt
   apt-key
 bash					ftp://ftp.gnu.org/pub/gnu/bash/
 bash-completion
-bash-doc
 coreutils				http://www.gnu.org/software/coreutils/
   [1]
 curl
@@ -25,7 +24,6 @@ debianutils
 dpkg
 file					ftp.astron.com/pub/file/ (?)
 git
-git-doc
 grep					http://www.gnu.org/software/grep/
 html-xml-utils
   [2]
@@ -38,7 +36,6 @@ icoutils
 info
 less					http://www.greenwoodsoftware.com/less/
 make
-make-doc
 mediainfo
 moc
 nano
@@ -94,7 +91,6 @@ ncdu
 ntfs-3g					http://www.tuxera.com/community/
   [4]
 parted
-parted-doc
 smartmontools
   smartctl
   smartd
@@ -118,13 +114,11 @@ qbittorrent			http://www.qbittorrent.org/
 Compression & Archiving
 =======================
 bzip2				http://www.bzip.org/
-bzip2-doc
 engrampa
 gzip
 innoextract
 p7zip-full
 tar				http://www.gnu.org/software/tar/
-tar-doc
 unrar-free
 xz-utils
 
@@ -141,7 +135,6 @@ Graphics
 ========
 blender				http://www.blender.org/
 gimp				http://www.gimp.org/
-gimp-help-en
 inkscape			https://inkscape.org/
 ufraw
 
@@ -149,9 +142,7 @@ ufraw
 CAD
 ===
 freecad
-freecad-doc
 kicad
-kicad-doc-en
 librecad			http://librecad.org/
 
 
@@ -188,6 +179,20 @@ xfce4-weather-plugin
 xfce4-whiskermenu-plugin
 
 
+Documentation
+=============
+bash-doc
+bzip2-doc
+ffmpeg-doc
+freecad-doc
+gimp-help-en
+git-doc
+kicad-doc-en
+make-doc
+parted-doc
+tar-doc
+
+
 Mostly useless (but amusing)
 ============================
 cmatrix
@@ -208,7 +213,6 @@ calibre					https://calibre-ebook.com/
 dosbox
 exe-thumbnailer
 ffmpeg
-ffmpeg-doc
 gource
 hardinfo				http://hardinfo.berlios.de/ (deadlink)
 libreoffice-calc			http://www.documentfoundation.org/
