@@ -40,6 +40,7 @@ gimp		install
 gimp-help-en		install
 git		install
 git-doc		install
+git-man		install
 gnome-disk-utility		install
 # gnome-exe-thumbnailer		install
 gource		install
