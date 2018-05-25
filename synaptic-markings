@@ -99,6 +99,7 @@ ristretto		install
 scummvm		install
 sl		install
 smartmontools		install
+squashfs-tools		install
 supertuxkart		install
 tar		install
 tar-doc		install

@@ -95,6 +95,7 @@ smartmontools
   smartctl
   smartd
   update-smart-drivedb
+squashfs-tools				http://squashfs.sourceforge.net/
 testdisk
 
 
