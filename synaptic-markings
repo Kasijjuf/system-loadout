@@ -15,6 +15,7 @@ cowsay		install
 curl		install
 # ddrescueview		install
 debianutils		install
+dillo		install
 dosbox		install
 dosfstools		install
 e2fsprogs		install
