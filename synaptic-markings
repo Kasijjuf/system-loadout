@@ -58,6 +58,7 @@ icoutils		install
 info		install
 inkscape		install
 innoextract		install
+jigdo-file		install
 kicad		install
 kicad-doc-en		install
 lbreakout2		install
