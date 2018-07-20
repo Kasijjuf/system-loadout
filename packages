@@ -102,6 +102,7 @@ testdisk
 
 Internet
 ========
+claws-mail			https://claws-mail.org/
 dillo				http://www.dillo.org/
 firefox
   HTTPS Everywhere		https://www.eff.org/https-everywhere
@@ -188,6 +189,7 @@ Documentation
 =============
 bash-doc
 bzip2-doc
+claws-mail-doc
 ffmpeg-doc
 freecad-doc
 gimp-help-en

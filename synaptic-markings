@@ -10,6 +10,8 @@ build-essential		install
 bzip2		install
 bzip2-doc		install
 # calibre		install
+claws-mail		install
+claws-mail-doc		install
 cmatrix		install
 cowsay		install
 curl		install
