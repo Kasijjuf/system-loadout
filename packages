@@ -198,6 +198,7 @@ gimp-help-en
 git-doc
 git-man
 kicad-doc-en
+libreoffice-help-en-us
 make-doc
 parted-doc
 tar-doc
@@ -226,7 +227,6 @@ ffmpeg
 gource
 hardinfo				http://hardinfo.org/
 libreoffice-calc			http://www.documentfoundation.org/
-libreoffice-help-en-us			http://www.documentfoundation.org/
 libreoffice-writer			http://www.documentfoundation.org/
 mate-calc
 mate-system-monitor
