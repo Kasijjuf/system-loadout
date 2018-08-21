@@ -103,6 +103,7 @@ redshift		install
 redshift-gtk		install
 ristretto		install
 scummvm		install
+sed		install
 sl		install
 smartmontools		install
 squashfs-tools		install

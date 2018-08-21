@@ -46,6 +46,7 @@ pciutils
   lspci
 pwgen
 rdfind
+sed					http://gnu.org/software/sed/
 sudo					https://www.sudo.ws/
 tmux
 tree
