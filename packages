@@ -7,6 +7,7 @@ apt
   apt-cdrom
   apt-config
   apt-key
+aptitude
 bash					ftp://ftp.gnu.org/pub/gnu/bash/
 bash-completion
 coreutils				http://www.gnu.org/software/coreutils/
@@ -187,6 +188,7 @@ xfce4-whiskermenu-plugin
 
 Documentation
 =============
+aptitude-doc-en
 bash-doc
 bzip2-doc
 claws-mail-doc

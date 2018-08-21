@@ -1,4 +1,6 @@
 aeson-pretty		install
+aptitude		install
+aptitude-doc-en		install
 atril		install
 # bash		install
 bash-completion		install
