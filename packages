@@ -10,6 +10,7 @@ apt
 aptitude
 bash					ftp://ftp.gnu.org/pub/gnu/bash/
 bash-completion
+cmake					http://cmake.org/
 coreutils				http://www.gnu.org/software/coreutils/
   [1]
 curl
@@ -193,6 +194,7 @@ aptitude-doc-en
 bash-doc
 bzip2-doc
 claws-mail-doc
+cmake-doc
 ffmpeg-doc
 freecad-doc
 gimp-help-en

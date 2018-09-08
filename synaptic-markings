@@ -14,6 +14,8 @@ bzip2-doc		install
 # calibre		install
 claws-mail		install
 claws-mail-doc		install
+cmake		install
+cmake-doc		install
 cmatrix		install
 cowsay		install
 curl		install
