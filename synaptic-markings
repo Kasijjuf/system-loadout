@@ -42,6 +42,7 @@ freecad		install
 freecad-doc		install
 freedoom		install
 freesweep		install
+gcolor2		install
 # gddrescue		install
 # gdmap		install
 gimp		install
